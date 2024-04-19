@@ -1,0 +1,20 @@
+.navdiv1{
+ height: 80px;
+ background-color: black;
+ display: flex;
+}
+.atag1{
+   text-decoration: none;
+   font-weight: 700;
+   color: #fff;
+   font-size: 16px;
+   margin-left: 30px;
+}
+.atag1:hover{
+    color: green;
+}
+
+.navbarlinks{
+    margin-top: 30px;
+    margin-left: 500px;
+}

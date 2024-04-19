@@ -1,0 +1,39 @@
+.p2div1{
+    height: 450px;
+    margin-top: 100px;
+    background-attachment: scroll, scroll;
+    background-image: url("https://www.scdn.co/i/free/bubbles-dktp.svg"), linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    background-origin: padding-box, padding-box;
+    background-clip: border-box, border-box;
+    background-size: 100% 1068px;
+    background-position: center -138px;
+}
+.page2h1{
+    color: white;
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  font-size: 80px;
+  text-align: center;
+  padding-top: 150px;
+  transition: transform 1s;
+}
+.page2h1:hover{
+    transform: scale(1.1,1.1);
+    color: black;
+
+}
+.p2button{
+    border: 0px;
+  border-radius: 500px;
+  text-align: center;
+  font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+  font-weight: 700;
+  height: 45px;
+  width: 200px;
+  margin-left: 650px;
+}
+.p2button:hover{
+    transform: scale(1.1,1.1);
+}

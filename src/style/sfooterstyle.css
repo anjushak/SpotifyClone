@@ -1,0 +1,29 @@
+.footdiv1{
+    height: 557px;
+    background-color: black;
+   
+}
+.company{
+
+margin-left: 70px;
+}
+.company p:hover{
+    color: green;
+}
+.community{
+    
+    margin-left: 90px;
+    }
+    .community p:hover{
+        color: green;
+    }
+.company1 p{
+    color: white;
+}
+.pfootend{
+    padding-left: 17px;
+    font-size: 12px;
+}
+.footdiv1 p:hover{
+    color: green;
+}

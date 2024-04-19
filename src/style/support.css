@@ -1,0 +1,125 @@
+.supp1{
+    background-image: linear-gradient(green 10%,black 90%);
+    height: 800px;
+
+}
+.suppb1{
+   border-radius: 500px;
+   height: 40px;width: 170px;
+   margin-left: 800px;
+   border: none;
+   background-color: white;
+   margin-top: 30px;
+}
+
+.suppb2{
+ background-color: black;
+ color: white;
+ margin-left: 20px;
+ border:none;
+ border-radius: 500px;
+ height: 30px;
+ width: 130px;
+}
+.suppp1{
+    color: white;
+    padding-left: 500px;
+    padding-top: 30px;
+    font-weight: 400;
+    font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+}
+
+.supph1{
+    color: white;
+    font-weight: 700;
+  font-family: var(--font-family,CircularSpTitle,CircularSpTitle-Tall,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+  font-size: 50px;
+  padding-left: 500px;
+}
+
+.suppdiv2{
+   
+    height:500px;
+   
+}
+.suppdiv2 h1{
+    
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    padding-left: 500px;
+}
+.suppb3{
+    height: 40px;
+    width: 150px;
+    border: none;
+    border-radius: 500px;
+    background-color: green;
+    margin-left: 680px;
+    margin-top: 50px;
+}
+.divgrid{
+    width:596px;
+    height: 270px;
+   
+    margin-top: 30px;
+    margin-left: 470px;
+    
+}
+.card1s{
+  
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(175, 40, 150);
+}
+.card1s1{
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(83, 122, 161);
+}
+.card1s2{
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(140, 25, 50);
+}
+.card1s12{
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(176, 98, 57);
+}
+.card1s13{
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(0, 100, 80);
+}
+
+.card1s14{
+    width: 188px;
+    height:114px;
+    display:flex;
+    border-radius: 4px;
+  position: relative;
+  overflow: hidden;
+  background-color: rgb(117, 117, 117);
+}
+

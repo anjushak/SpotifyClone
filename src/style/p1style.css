@@ -1,0 +1,141 @@
+.p1div1{
+    background-attachment: scroll, scroll;
+    background-image: url("https://www.scdn.co/i/free/bubbles-dktp.svg"), linear-gradient(-45deg, rgb(108, 14, 224) -5%, rgb(240, 55, 166));
+    background-origin: padding-box, padding-box;
+    background-clip: border-box, border-box;
+    background-size: 100% 1068px;
+    background-position: center -138px;
+    height: 600px;
+    display: flex;
+}
+.mobile{
+    height: 573px;
+    width: 281px;
+    background-color: white;
+    border-radius: 55px;
+    margin-top: 100px;
+    margin-left: 200px;
+
+}
+.p1div12{
+    margin-top: 100px;
+}
+.p1heading1{
+    font-size: 50px;
+    max-width: 653px;
+    color: white;
+    font-weight: 800;
+    font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+    letter-spacing: -0.04em;
+    line-height: 1.15;
+    padding-left: 150px;
+    padding-top: 80px;
+
+}
+.buttonp1{
+    box-sizing: border-box;
+  font-size: 1rem;
+  font-weight: 700;
+  font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+  border: 0px;
+  border-radius: 500px;
+  width: 200px;
+  height: 50px;
+  margin-left: 150px;
+}
+.buttonp1:hover{
+    transform: scale(1.1,1.1);
+    font-weight: bold;
+}
+.p3h3{
+    margin-top: 100px;
+    padding-left: 600px;
+    font-size: 40px;
+}
+.div3grid{
+    display: flex;
+    margin-left: 200px;
+    gap: 40px;
+    margin-top: 50px;
+    
+}
+
+
+
+
+
+.carddiv{
+    height: 250px;
+    width: 250px;
+    
+}
+.carddiv img{
+    opacity: 50%;
+}
+.carddiv img:hover{
+    opacity: 100%;
+    transition: opacity 1s;
+}
+.carddiv h3{
+    margin-left: 35px;
+}
+.carddiv p{
+    text-align: center;
+}
+.pdiv3{
+    margin-top: 150px;
+    height: 495px;
+    background: linear-gradient(rgb(176, 35, 194) 15%, rgb(96, 11, 231));
+}
+.pdivh31{
+    font-size: 48px;
+    padding-top: 190px;
+    color: white;
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+  text-align: center;
+}
+.pdivh32{
+    font-size: 48px;
+    color: white;
+  
+  font-weight: 900;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  font-family: var(--font-family,CircularSp,CircularSp-Arab,CircularSp-Hebr,CircularSp-Cyrl,CircularSp-Grek,CircularSp-Deva,var(--fallback-fonts,sans-serif));
+  text-align: center;
+}
+.pdiv4h1{
+  font-size: 40px;
+  text-align: center;
+  padding-top: 90px;
+}
+.faqdiv{
+    margin-left: 150px;
+    margin-top: 10px;
+    
+}
+.faq1{
+    height: 70px;
+    width: 1200px;
+    font-weight: bold ;
+    font-size: 15px;
+    border:none;
+    text-align: start;
+   
+    
+}
+.faq2{
+    height: 70px;
+    width: 1500px;
+    font-weight: bold ;
+    font-size: 15px;
+    border:none;
+    margin-top: 5px;
+    text-align: start;
+    padding-top: 10px;
+    
+}
+

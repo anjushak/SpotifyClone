@@ -1,0 +1,100 @@
+.prmdiv1{
+
+     height: 600px;
+    display: flex;
+     
+}
+.sprdiv1{
+    color: white;
+   
+}
+.sprdiv1h1{
+    font-weight: bold;
+    text-align: center;
+    padding-top: 40px;
+}
+.prmdiv{
+    background-image: linear-gradient(rgb(248, 195, 204) 1% ,black 99%);
+    height: 100%;
+}
+.prmh1{
+    color: white;
+    font-size: 45px;
+    padding-left: 100px;
+    padding-top: 100px;
+    font-weight: bold;
+}
+.prmh2{
+    color: white;
+    font-size: 15px;
+    padding-left: 100px;
+}
+.prmh3{
+    color: white;
+    text-align: center;
+  padding-top: 60px;
+  font-size: 45px;
+}
+.prmh4{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-left: 600px;
+    padding-top: 130px;
+}
+.prmp2{
+    text-align: center;
+    color: white;
+}
+.carddiv1{
+    display: flex;
+    gap: 10px;
+    margin-left: 700px;
+}
+.imgpdiv1{
+    height: 500px;
+
+}
+.pbutton1{
+    background-color: pink;
+    color: black;
+    border-radius: 500px;
+    height: 48px;
+    width: 200px;
+    border: none;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.pbutton2{
+background-color: black;
+color: white;
+height: 48px;
+width: 200px;
+border: none;
+font-weight: bold;
+border-radius: 500px;
+margin-left: 20px;
+}
+
+.prmdiv5{
+    color: white;
+    font-size: 15px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.prmcarddiv{
+    display: flex;
+    
+}
+.carddiv1{
+    height: 300px;
+    width: 400px;
+    background-color: green;
+}
+.carddiv1 p{
+    color: white;
+}
+.carddiv1 img{
+    height: 30px;
+}
